@@ -1,0 +1,15 @@
+.App {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.autoComplete {
+  margin-top: 2rem;
+}
+
+.buttonWrapper {
+  margin-top: 1rem;
+  display: flex;
+}
