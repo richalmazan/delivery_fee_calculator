@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/delivery_fee_calculator/static/css/main.702e525a.chunk.css",
-    "main.js": "/delivery_fee_calculator/static/js/main.bf70ce54.chunk.js",
-    "main.js.map": "/delivery_fee_calculator/static/js/main.bf70ce54.chunk.js.map",
+    "main.js": "/delivery_fee_calculator/static/js/main.d98ebd8d.chunk.js",
+    "main.js.map": "/delivery_fee_calculator/static/js/main.d98ebd8d.chunk.js.map",
     "runtime-main.js": "/delivery_fee_calculator/static/js/runtime-main.7fb11b01.js",
     "runtime-main.js.map": "/delivery_fee_calculator/static/js/runtime-main.7fb11b01.js.map",
     "static/js/2.a3820377.chunk.js": "/delivery_fee_calculator/static/js/2.a3820377.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.7fb11b01.js",
     "static/js/2.a3820377.chunk.js",
     "static/css/main.702e525a.chunk.css",
-    "static/js/main.bf70ce54.chunk.js"
+    "static/js/main.d98ebd8d.chunk.js"
   ]
 }
